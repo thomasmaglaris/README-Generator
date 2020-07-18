@@ -3,7 +3,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## License 
-  (https://img.shields.io/badge/License-${data.license}-green)
+  ![License](https://img.shields.io/badge/License-${data.license}-green)
 
   ## Description
   ${data.description}
@@ -30,7 +30,7 @@ function generateMarkdown(data) {
 
   ## License
   The licensing for this application is through: ${data.license}
-  (https://img.shields.io/badge/License-${data.license}-green)
+  ![License](https://img.shields.io/badge/License-${data.license}-green)
       
   ## Contributions
   ${data.contribution}

@@ -3,7 +3,7 @@
 # Good README.md Generator
 
   ## License 
-  (https://img.shields.io/badge/License-MIT-green)
+  ![License](https://img.shields.io/badge/License-MIT-green)
 
   ## Description
   Creating a command-line application that dynamically generates a professional README.md from a user's input using the inquirer package
@@ -30,7 +30,7 @@
 
   ## License
   The licensing for this application is through: MIT
-  (https://img.shields.io/badge/License-MIT-green)
+  ![License](https://img.shields.io/badge/License-MIT-green)
       
   ## Contributions
   Contribution is welcome for all interested parties
