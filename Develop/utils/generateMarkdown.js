@@ -12,7 +12,7 @@ function generateMarkdown(data) {
 
   * [Installation](#installation)
 
-  * [Contributing](#contributing)
+  * [Contributing](#contribution)
 
   * [Usage](#usage)
 
